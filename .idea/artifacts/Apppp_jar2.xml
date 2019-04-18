@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Apppp:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Apppp_jar2</output-path>
+    <root id="archive" name="Apppp.jar">
+      <element id="module-output" name="Apppp" />
+    </root>
+  </artifact>
+</component>
